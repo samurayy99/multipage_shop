@@ -1,0 +1,6 @@
+services:
+  phpcsfixer:
+    version: 1
+
+
+

@@ -1,0 +1,90 @@
+/* example STORE */
+
+.navbar-logo { 
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+
+.header-navbar {
+    min-height: 63px !important;
+}
+
+.navbar-nav {
+    flex-direction: row !important;
+}
+
+#fr-logo {
+    display: none !important;
+}
+
+.price-tag-sale {
+    line-height: 1.5;
+    text-align: left;
+    word-wrap: break-word;
+    box-sizing: border-box;
+    position: absolute;
+    right: -5px;
+    top: -5px;
+    z-index: 100;
+    padding: 3px 10px;
+    font-size: 13px;
+    font-weight: 500;
+    background: #7367f0;
+    border-radius: 5px;
+    color: white;
+}
+
+.price-tag-percent {
+    line-height: 1.5;
+    text-align: left;
+    word-wrap: break-word;
+    font-size: 13px;
+    font-weight: 500;
+    color: white;
+    box-sizing: border-box;
+}
+
+.price-tag-old {
+    line-height: 1.5;
+    text-align: left;
+    word-wrap: break-word;
+    font-size: 13px;
+    font-weight: 500;
+    box-sizing: border-box;
+    color: #222;
+}
+
+.mb-05 {
+    margin-bottom: 5px;
+}
+
+.mt-07 {
+    margin-top: 7px;
+}
+
+.ms-05 {
+    margin-left: 5px;
+}
+
+pre .acp {
+    white-space: pre-wrap; 
+    word-break: break-word;
+}
+
+.payment-window {
+    max-width: 400px;
+    text-align: center;
+    margin: 0 auto;
+    box-shadow: 0 0 10px 2px rgb(0 0 0 / 10%);
+    font-size: 14px;
+    padding: 15px;
+    border-radius: 3px;
+    background-color: #283046;
+}
+
+.card-dark {
+    background-color: #283046 !important;
+}
+
+
